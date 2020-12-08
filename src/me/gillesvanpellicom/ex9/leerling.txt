@@ -1,0 +1,6 @@
+Jefferson
+Aardrijkskunde: 75
+Geschiedenis: 65
+Frans: 40
+Wiskunde: 90
+Gemiddelde: 67.5
